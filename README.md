@@ -6,7 +6,7 @@ I am a beginner web developer. My main activity is developing applications in No
 
 ### For my contacts, you can use the following information:
 <a href="mailto:vitenkoartem7@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-001900?style=for-the-badge&logo=gmail&logoColor=FFF5FF" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-001900?style=for-the-badge&logo=gmail&logoColor=A02D2D" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/LINKEDIN-001900?style=for-the-badge&logo=linkedin&logoColor=008DFF"/>
