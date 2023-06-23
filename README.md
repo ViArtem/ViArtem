@@ -8,6 +8,6 @@ I am a beginner web developer. My main activity is developing applications in No
 <a href="mailto:vitenkoartem7@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-001900?style=for-the-badge&logo=gmail&logoColor=A02D2D" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/artem-vitenko-3b270924a/">
 <img src="https://img.shields.io/badge/LINKEDIN-001900?style=for-the-badge&logo=linkedin&logoColor=008DFF"/>
 </a>
